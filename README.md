@@ -2,15 +2,15 @@
 This repository contains the OpenCore EFI folder for HP EliteDesk 800 G1 SFF
 
 Running macOS [ElCapitan - Montorey].<br>
-iMac14,2 = ElCapitan -> Mojave<br>
-iMac14,4 & Macmini7,1 = BigSur -> Montorey<br>
+iMac14,2 & iMac14,4 = ElCapitan -> Mojave<br>
+iMac15,1 & Macmini7,1 = BigSur -> Montorey<br>
 * Montorey with OCLP<br>
 
 ---
 
 ## 💻 System Specs
 * **CPU:** [Intel Core i3-4330TE]<br>
-* **iGPU:** [Intel HD Graphics 4600]<br>
+* **iGPU:** [Intel HD Graphics 4400]<br>
 * **RAM:** [4GB DDR3]<br>
 * **OpenCore Version:** [1.0.6.] NOV 2025<br>
 
