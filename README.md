@@ -62,10 +62,13 @@ e) ROM					x2	Line.632, 659.<br>
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://cdn.myrapidtrack.com/products/images/1646929856169391173.jpg" width="50%" />
-  <img src="https://raw.githubusercontent.com/suaji/Opencore-HP-EliteDesk-800-G1-SFF/refs/heads/main/Catalina.png" width="50%" />
-  <img src="https://raw.githubusercontent.com/suaji/Opencore-HP-EliteDesk-800-G1-SFF/refs/heads/main/BigSur.png" width="50%" />
+  <img src="https://cdn.myrapidtrack.com/products/images/1646929856169391173.jpg" width="50%" height="70%" />
 </p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suaji/Opencore-HP-EliteDesk-800-G1-SFF/refs/heads/main/Neofetch.png" width="50%" height="70%" />
+</p>
+<br>
 
 ---
 
